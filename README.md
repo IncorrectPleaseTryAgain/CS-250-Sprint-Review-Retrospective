@@ -15,4 +15,11 @@ approaches into consideration before sticking with a development process and I t
 Some agile processes that I hope to incorporate into my future development work are: user stories, sprints and a backlog, daily standups,
 and not particularly a process but more a principle; I would preference face-to-face communication.
 
-#What does it mean to be a good team member in software development?
+# What does it mean to be a good team member in software development?
+In order to be a good team member in software development means to be someone who people can trust and rely on. You have to be 
+someone who is selfless and who thinks of others, especially the client, before themselves. This does not mean that you should 
+throw away your morals and not take them into consideration, but it means that you should be open minded and excepting of change.
+As a software developer you should not only be relied on but you should also be able to rely on others; trusting others is the only
+way to expects others trust in you. Being a part of a team means to work together, thus young will need good communicational skill
+so that you can convey your ideas with others in a clear and concise manner. You should be hard-working but not to the point where
+it is harmful and lasty, to be a good team member in software development you have to be respectful.
