@@ -1,4 +1,4 @@
-# CS-250-Module8
+# CS-250 Sprint Review | Retrospective
 
 # How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 I interpret user needs with the use of face-to-face conversations that are clear and concise. I use "user stories" 
